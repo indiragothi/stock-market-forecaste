@@ -1,0 +1,15 @@
+tensorflow==2.18.0
+pandas 
+numpy 
+matplotlib
+seaborn
+scikit-learn
+tensorboard
+flask 
+yfinance 
+plotly
+keras
+
+ 
+ 
+ 
